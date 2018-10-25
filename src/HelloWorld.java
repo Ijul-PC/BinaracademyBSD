@@ -9,6 +9,7 @@ public class HelloWorld {
         System.out.print("binar\nacademy ");
         System.out.print("bsd");
         System.out.println();
+        System.out.println("nyoba merge");
         newMain();
     }
 
@@ -18,5 +19,3 @@ public class HelloWorld {
 
 
 }
-
-pubpoc
